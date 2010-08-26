@@ -1,0 +1,5 @@
+
+* Dead simple geo ip server in 45 lines of python
+
+The data is loaded from freely available source - http://software77.net/geo-ip/
+

@@ -1,11 +1,6 @@
 
-import tornado.httpserver
-import tornado.ioloop
-import tornado.options
-import tornado.web
-
+import tornado.httpserver, tornado.ioloop, tornado.options, tornado.web
 from tornado.options import define, options
-
 from pysqlite2 import dbapi2 as S
 import socket, struct, psyco, time
 
